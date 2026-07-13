@@ -72,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0039-combination-sum) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Khushii-gupta/leetcode-questions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
