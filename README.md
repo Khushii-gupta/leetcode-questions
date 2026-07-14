@@ -24,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0704-binary-search) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Khushii-gupta/leetcode-questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0152-maximum-product-subarray) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Khushii-gupta/leetcode-questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Khushii-gupta/leetcode-questions/tree/master/1291-sequential-digits) |
+## Math
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Khushii-gupta/leetcode-questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Khushii-gupta/leetcode-questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
