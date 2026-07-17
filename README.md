@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Khushii-gupta/leetcode-questions/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Khushii-gupta/leetcode-questions/tree/master/1903-largest-odd-number-in-string) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0242-valid-anagram) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Khushii-gupta/leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0242-valid-anagram) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Khushii-gupta/leetcode-questions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
