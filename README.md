@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0038-count-and-say) |
+| [1021-remove-outermost-parentheses](https://github.com/Khushii-gupta/leetcode-questions/tree/master/1021-remove-outermost-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -157,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Khushii-gupta/leetcode-questions/tree/master/3312-sorted-gcd-pair-queries) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Khushii-gupta/leetcode-questions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
