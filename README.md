@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Khushii-gupta/leetcode-questions/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Khushii-gupta/leetcode-questions/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Khushii-gupta/leetcode-questions/tree/master/1903-largest-odd-number-in-string) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Khushii-gupta/leetcode-questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Khushii-gupta/leetcode-questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Khushii-gupta/leetcode-questions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/Khushii-gupta/leetcode-questions/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
