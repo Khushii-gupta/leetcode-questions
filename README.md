@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0205-isomorphic-strings) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0796-rotate-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
