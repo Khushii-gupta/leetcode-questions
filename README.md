@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Khushii-gupta/leetcode-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Khushii-gupta/leetcode-questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Khushii-gupta/leetcode-questions/tree/master/1903-largest-odd-number-in-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Khushii-gupta/leetcode-questions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Array
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Khushii-gupta/leetcode-questions/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Khushii-gupta/leetcode-questions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Math
 |  |
 | ------- |
