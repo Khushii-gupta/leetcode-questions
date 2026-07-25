@@ -237,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Khushii-gupta/leetcode-questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
