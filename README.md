@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Khushii-gupta/leetcode-questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Khushii-gupta/leetcode-questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Khushii-gupta/leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0013-roman-to-integer) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/Khushii-gupta/leetcode-questions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Khushii-gupta/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Khushii-gupta/leetcode-questions/tree/master/3312-sorted-gcd-pair-queries) |
