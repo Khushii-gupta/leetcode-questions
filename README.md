@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Khushii-gupta/leetcode-questions/tree/master/1903-largest-odd-number-in-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Khushii-gupta/leetcode-questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Khushii-gupta/leetcode-questions/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Khushii-gupta/leetcode-questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Array
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Khushii-gupta/leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Khushii-gupta/leetcode-questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Khushii-gupta/leetcode-questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Khushii-gupta/leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -247,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0237-delete-node-in-a-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Khushii-gupta/leetcode-questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
