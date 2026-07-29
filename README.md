@@ -254,10 +254,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
 ## Counting Sort
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Khushii-gupta/leetcode-questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
