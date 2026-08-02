@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0486-predict-the-winner) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Khushii-gupta/leetcode-questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Two Pointers
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0013-roman-to-integer) |
+| [0486-predict-the-winner](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/Khushii-gupta/leetcode-questions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Khushii-gupta/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -286,4 +289,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
