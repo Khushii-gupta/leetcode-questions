@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -296,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Khushii-gupta/leetcode-questions/tree/master/0237-delete-node-in-a-linked-list) |
